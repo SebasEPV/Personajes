@@ -1,0 +1,15 @@
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/bin/Debug/net10.0/Personajes
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/bin/Debug/net10.0/Personajes.deps.json
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/bin/Debug/net10.0/Personajes.runtimeconfig.json
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/bin/Debug/net10.0/Personajes.dll
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/bin/Debug/net10.0/Personajes.pdb
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.AssemblyInfoInputs.cache
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.AssemblyInfo.cs
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.csproj.CoreCompileInputs.cache
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.sourcelink.json
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.dll
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/refint/Personajes.dll
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.pdb
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/Personajes.genruntimeconfig.cache
+/Users/sebastianperez/Work.nosync/Uni/Cuatri 10/Majo/Personajes/Personajes/obj/Debug/net10.0/ref/Personajes.dll
